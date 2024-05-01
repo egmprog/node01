@@ -8,7 +8,10 @@ npm i nodemon -D
 
 ----
 Luego comenzar a correr con la siguiente linea de comandos:
-node src/index.js 
-Ver en el explorador con url: localhost:3000
 
-(Al iniciar un proyecto, generar el json mediante:   npm inst -y)
+node src/index.js 
+
+Ver en el explorador con la url: localhost:3000
+
+----
+(Al iniciar un proyecto nuevo, generar el json mediante:   npm inst -y)
