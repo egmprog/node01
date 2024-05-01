@@ -6,4 +6,9 @@ npm i express morgan ejs
 
 npm i nodemon -D
 
+----
+Luego comenzar a correr con la siguiente linea de comandos:
+node src/index.js 
+Ver en el explorador con url: localhost:3000
+
 (Al iniciar un proyecto, generar el json mediante:   npm inst -y)
